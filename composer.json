@@ -1,0 +1,22 @@
+{
+  "name": "FHeerdink/Song",
+  "description": "Badly coded class to play song Lyrics",
+  "type": "package",
+  "require": {
+    "php": ">=7.0"
+  },
+  "license": "mit",
+  "authors": [
+    {
+      "name": "Franke Heerdink",
+      "email": "your@email.com",
+      "homepage": "https://www.frankeheerdink.nl/"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "FHeerdink\\Song\\": "src/"
+    }
+  }
+}
